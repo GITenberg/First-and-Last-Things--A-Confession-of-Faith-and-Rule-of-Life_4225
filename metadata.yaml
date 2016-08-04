@@ -1,0 +1,29 @@
+_repo: First-and-Last-Things--A-Confession-of-Faith-and-Rule-of-Life_4225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: In this collection of insightful essays, science fiction master H.G.
+  Wells sets forth his views on life, ethics, religion, and a host of other moral,
+  ethical and metaphysical matters. First and Last Things offers a fascinating glimpse
+  into the mind and manner of thinking of a groundbreaking creative genius.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: 'First and Last Things: A Confession of Faith and Rule of Life'
+url: http://www.gutenberg.org/ebooks/4225
